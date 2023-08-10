@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-Frontend Developer | Problem Solver | C++ - 🥇Gold Badge (HackerRank) | Leetcode - 75+ problems solved <br>
+Frontend Developer | Problem Solver |<br> C++ - 🥇Gold Badge (HackerRank) <br> Leetcode - 75+ problems solved <br>
 Learning MERN Stack Development<br>Currently working on studyNotion (MERN) project<br><br>
 
 
