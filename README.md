@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-Frontend Developer | Problem Solver<br> 
+Full Stack Developer | Problem Solver<br> 
 C++ - 🥇Gold Badge (HackerRank) <br>
 Leetcode - 100+ problems solved <br>
 Learning MERN Stack Development<br>
